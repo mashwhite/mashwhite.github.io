@@ -1,17 +1,25 @@
+body {
+  margin: 0;
+  width: 100%;
+  background-image: url(images/crystallamp.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 .bodyMargins {
 	margin-right: 20px;
 	margin-left: 20px;
 }
 
-header {
+/* header {
 	background-image: url(images/crystallamp.jpg);
 	height: 120vh;
 	margin-top: 4em;
 	margin-bottom: 4em;
 	background-size: cover;
 	background-position: center;
-}
+} */
 
 h1 {
 	color: white;
@@ -39,8 +47,8 @@ h3 {
   	list-style: none;
   	position: fixed;
   	left: 0;
-  	text-align: bottom; 
-	
+  	text-align: bottom;
+
 }
 
 .mainNav a {
@@ -50,9 +58,9 @@ h3 {
 	color: white;
 	}
 
-img {
+/* img {
 	width: 500px;
-}
+} */
 
 .portWork {
 	width: 500px;
@@ -75,4 +83,3 @@ img {
 	border-color: #607D8B;
 
 }
-	
